@@ -1,2 +1,3 @@
 # hello-world
-Walk through Github guide
+
+Anna here. First version control attempt. 
