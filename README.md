@@ -1,3 +1,3 @@
 # hello-world
 
-Anna here. First version control attempt. 
+My first Git repository as of 27 Dec 2017.
